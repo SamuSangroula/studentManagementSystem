@@ -1,7 +1,6 @@
 # Student Management System
-
-A web application for managing students, courses, assignments, attendance, and grades. It has a backend API and a frontend interface for easy use.
-
+![StudentManagementSystem](StudentManagementSystem.png)
+![StudentManagementSystem](StudentManagementSystemDashboard.png)
 ## What is This Project?
 
 This is a complete system for schools and educational institutions to:
