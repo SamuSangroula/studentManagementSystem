@@ -169,7 +169,3 @@ The system uses MySQL with the following main tables:
 - Clear npm cache: `npm cache clean --force`
 - Delete node_modules folder and package-lock.json
 - Run `npm install` again
-
-## Support
-
-If you find any issues or need help, check the project files or contact the development team.
