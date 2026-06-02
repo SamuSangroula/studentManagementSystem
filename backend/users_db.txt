@@ -1,0 +1,7 @@
+USER: student@gmail.com | ROLE: student | ACTIVE: 1
+USER: testuser@example.com | ROLE: student | ACTIVE: 1
+USER: gajur@gmail.com | ROLE: student | ACTIVE: 1
+USER: teacher@gmail.com | ROLE: teacher | ACTIVE: 1
+USER: admin@school.com | ROLE: admin | ACTIVE: 1
+USER: gajurraut@gmail.com | ROLE: student | ACTIVE: 1
+USER: testuser456@example.com | ROLE: student | ACTIVE: 1
